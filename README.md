@@ -1,4 +1,4 @@
-# Introduction-to-Statistical-Graphs_Shinyapp-for-education
+# Introduction to Univariate Graphs (Shinyapp for education)
 This project is to introduce students who have little to no knowledge of statistics some basic graphs and how to code them in R. Students will go through step-by-step on how to create the graph, along with some critical thinking involve. 
 
 Some goals for this project:
