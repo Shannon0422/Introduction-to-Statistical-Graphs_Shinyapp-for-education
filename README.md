@@ -16,3 +16,14 @@ Later parts of the project:
 - Boxplot comparison
 - Which graph would be a better representation
 - Introduce shape/ skewness
+
+**Current Progress:**
+- Constructed basic layout
+- Constructed Main Panel for:
+  - Dataset Preview and Description
+  - Plot:
+    - Histogram
+   
+**Ongoing:**
+- Construct plots for other quantitative and qualitative data
+- Update specifics/ what to take note of for all plots (x-axis, y-axis)
